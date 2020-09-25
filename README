@@ -1,12 +1,6 @@
 Language : C++20
 Build System : Makefile
 Project type : Platerformer
-<<<<<<< HEAD
 Graphic library : Qt
-=======
-Graphic library : Qt
-
 Extension : .cc & .hh
-
 enjoy
->>>>>>> 5287527ea75efa3db51afe48deb75a0090a8909d
