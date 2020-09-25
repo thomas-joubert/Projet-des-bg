@@ -1,0 +1,5 @@
+Language : C++20
+Build System : Makefile
+
+Project type : Platerformer
+Graphic library : Qt
