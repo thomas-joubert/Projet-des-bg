@@ -3,8 +3,8 @@ CXXFLAGS= -Werror -Wall -Wextra -std=c++2a -lsfml-graphics -lsfml-window -lsfml-
 LDFLAGS= -fsanitize=address
 DEBUG= -g
 
-SRC=
-OBJS=
+SRC=src/object.cc src/character.cc src/obstacle.cc
+OBJS=src/object.o src/character.o src/obstacle.o
 
 TARGET=bin
 
